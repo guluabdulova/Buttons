@@ -1,0 +1,15 @@
+.custom-button {
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .warn {
+    border: 2px solid red;
+    color: red;
+  }
+  
+  .indented {
+    font-style: italic;
+  }
+  
